@@ -3,6 +3,4 @@ santhoshreddy
 git status
 git add info.text
 git commit -m "changing skills"
-8885809980
 494454344152
-aadhar no
