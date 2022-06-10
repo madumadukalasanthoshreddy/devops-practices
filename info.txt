@@ -4,3 +4,4 @@ git status
 git add info.text
 git commit -m "changing skills"
 8885809980
+9030809982
