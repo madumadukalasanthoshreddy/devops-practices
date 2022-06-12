@@ -1,6 +1,0 @@
-git log
-git log -2
-git log -10 --oneline
-git log info.text
-git fast
-git good
