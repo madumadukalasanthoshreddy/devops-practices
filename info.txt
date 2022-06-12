@@ -1,6 +1,0 @@
-hello
-santhoshreddy
-git status
-git add info.text
-git commit -m "changing skills"
-494454344152
