@@ -2,3 +2,4 @@ github main
 git status
 git add info.txt
 git commit -m "info.txt"
+git something
