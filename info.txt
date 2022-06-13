@@ -1,8 +1,4 @@
 github main 
 git status
 git add info.txt
-git commit -m 
-git something
-8885809980
-900809982
-srrtg
+git commit -m
