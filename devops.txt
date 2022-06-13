@@ -1,4 +1,5 @@
-ytuitiyiuyi
-pip'kihij]
-ihhhkll
-gjmhgkh
+git statua
+git add info.txt
+git merge 
+git commit m
+To create new branch
