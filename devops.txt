@@ -3,5 +3,3 @@ git add info.txt
 git merge 
 git commit m
 To create new branch
-hfhsldi'ash f kiu
-ed;LJihd i
