@@ -3,3 +3,5 @@ git add info.txt
 git merge 
 git commit m
 To create new branch
+git diff
+git diff --color-words
