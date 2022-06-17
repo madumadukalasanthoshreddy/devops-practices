@@ -1,11 +1,6 @@
 git santhosh
 git srinivas reddy
-git branch task1
-git branch
-git checkout
-git branch -d task2
-git checkout -b feature/task2
-git commit one
-8885809980
-9030809982
-
+git branch task
+git checkout88858
+9848g3i8st branch -d task2
+git checkout -b feature/task
